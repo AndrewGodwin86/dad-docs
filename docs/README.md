@@ -1,3 +1,3 @@
-# Dad Docs
+# Introduction
 
 > Full documentation on becoming a Dad.
