@@ -1,7 +1,7 @@
-* [Introduction](#Introduction)
+* [Introduction](/#Introduction)
 - [Apps](apps.md)
 - [Books](books.md)
-- [Glossary](gloassary.md)
+- [Glossary](glossary.md)
 - [Podcasts](podcasts.md)
 
 
