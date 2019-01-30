@@ -1,3 +1,3 @@
 # Introduction
 
-> Full documentation on becoming a Dad.
+> Repository of resources I've found useful while prepping for our first kid.
